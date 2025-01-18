@@ -1,3 +1,4 @@
+# I am practicing this paper code for my own research.
 # Deep High-Resolution Representation Learning for Human Pose Estimation (CVPR 2019)
 ## News
 - [2021/04/12] Welcome to check out our recent work on bottom-up pose estimation (CVPR 2021) [HRNet-DEKR](https://github.com/HRNet/DEKR)!
