@@ -2,6 +2,7 @@
 # all credit goest to this papers authors
 # You can chacek whre i have change, at the same time i will comment where i have made a change
 # Deep High-Resolution Representation Learning for Human Pose Estimation (CVPR 2019)
+# I will try this work with ViT and LSTM
 ## News
 - [2021/04/12] Welcome to check out our recent work on bottom-up pose estimation (CVPR 2021) [HRNet-DEKR](https://github.com/HRNet/DEKR)!
 - [2020/07/05] [A very nice blog](https://towardsdatascience.com/overview-of-human-pose-estimation-neural-networks-hrnet-higherhrnet-architectures-and-faq-1954b2f8b249) from Towards Data Science introducing HRNet and HigherHRNet for human pose estimation.
