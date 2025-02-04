@@ -1,4 +1,5 @@
 # I am practicing this paper code for my own research.
+# I am going to use my own model on it
 # all credit goest to this papers authors
 # Deep High-Resolution Representation Learning for Human Pose Estimation (CVPR 2019)
 ## News
